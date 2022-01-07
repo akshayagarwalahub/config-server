@@ -1,4 +1,4 @@
 my:
   greeting: Hello world
 
-disabled.flights: vistara
+disabled.flights: vistara , indigo
